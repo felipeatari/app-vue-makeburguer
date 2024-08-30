@@ -37,5 +37,5 @@ npm install -g json-server@0.17.4
 ### Subir Back-End Fake
 
 ```sh
-json-server --watch db.json
+json-server --watch db/db.json
 ```

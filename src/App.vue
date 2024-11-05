@@ -18,7 +18,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterView />
     </section>
 
-    <footer class="w-full bg-stone-900 text-amber-300 p-10 text-center">
+    <footer class="w-full bg-stone-900 text-amber-300 p-2 text-center">
         <p>Make Your Burger &copy; 2024</p>
     </footer>
 </template>
